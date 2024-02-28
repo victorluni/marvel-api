@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2639C5D6-1761-4DFD-A5D8-CF620DA425DF"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50F25DF2-7D6D-4BCB-B4A9-72B4F8A193E9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Home/Endpoint/HomeEndpoint.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getRequestURL(offset:query:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FFE30DB-A24D-4178-B073-86AFE8F50718"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Home/Endpoint/HomeEndpoint.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getRequestURL(offset:query:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3A8DC39-13D6-4D2E-B85E-184494AB09EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Home/Views/HomeTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "searchBar(_:textDidChange:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56E6C265-69B2-4F6D-BB4E-BAD2603BB3D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Favorites/FavoritesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26668FE6-C7FF-4D10-B4DB-F2AEBFA50AF8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Favorites/FavoritesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "fetchFavorites()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEB2EC29-86D8-4253-B521-A0059427A168"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Favorites/FavoritesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4E02B65-7619-4F67-AD21-A60F5A647240"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Favorites/FavoritesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "updateFavorite(character:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4E02B65-7619-4F67-AD21-A60F5A647240 - 45f07e1f12d04ff5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAPI.FavoritesTableViewController.updateFavorite(character: MarvelAPI.HomeCellDTO) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Favorites/FavoritesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "D4E02B65-7619-4F67-AD21-A60F5A647240 - 45f07e1f12d04ff5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAPI.FavoritesTableViewController.updateFavorite(character: MarvelAPI.HomeCellDTO) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Favorites/FavoritesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2632C62F-10D8-4806-A584-9485CBF07A01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Favorites/FavoritesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "handleTap(character:cell:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2632C62F-10D8-4806-A584-9485CBF07A01 - 6840f36520d685e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAPI.FavoritesTableViewController.handleTap(cell: __C.UITableViewCell) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Favorites/FavoritesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "2632C62F-10D8-4806-A584-9485CBF07A01 - a3668e4b12b9ea4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAPI.FavoritesTableViewController.handleTap(character: MarvelAPI.HomeCellDTO) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Favorites/FavoritesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "2632C62F-10D8-4806-A584-9485CBF07A01 - a3668e4b12b9ea4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAPI.FavoritesTableViewController.handleTap(character: MarvelAPI.HomeCellDTO) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Favorites/FavoritesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "2632C62F-10D8-4806-A584-9485CBF07A01 - 78558b94c90bb333"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAPI.FavoritesTableViewController.handleTap(character: MarvelAPI.HomeCellDTO, cell: __C.UITableViewCell) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Favorites/FavoritesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA0DA67B-88A3-4B9A-8836-7C074D6ABE57"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Favorites/FavoriteViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "handleFavorite(index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B22950E-AA13-41F4-9151-8B3A51AA31BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Home/Views/HomeCharacterCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "handleTap()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B22950E-AA13-41F4-9151-8B3A51AA31BD - 19b1a133a523dddd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAPI.CharacterTableViewCell.handleTap() -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Home/Views/HomeCharacterCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "9B22950E-AA13-41F4-9151-8B3A51AA31BD - 19b1a133a523dddd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAPI.CharacterTableViewCell.handleTap() -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Home/Views/HomeCharacterCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "9B22950E-AA13-41F4-9151-8B3A51AA31BD - 19b1a133a523dddd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAPI.CharacterTableViewCell.handleTap() -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Home/Views/HomeCharacterCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE59A7CC-DD7F-4BD9-B5A6-3488B8D0BCF1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Home/Views/HomeTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
+            landmarkName = "retryButtonTapped()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFF8C84B-C90E-46DE-AC49-F45AE28940D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Error/ErrorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "retryButtonTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AFF8C84B-C90E-46DE-AC49-F45AE28940D3 - 6e3a96082d4036cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAPI.ErrorView.retryButtonTapped() -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Error/ErrorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "AFF8C84B-C90E-46DE-AC49-F45AE28940D3 - 6e3a96082d4036ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAPI.ErrorView.retryButtonTapped() -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Error/ErrorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0AFBBFAA-91D1-4063-91CF-47F040C523B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Error/ErrorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0AFBBFAA-91D1-4063-91CF-47F040C523B8 - 7b3a2901840378a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAPI.ErrorView.configure(with: MarvelAPI.NetworkError) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Error/ErrorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "0AFBBFAA-91D1-4063-91CF-47F040C523B8 - 7b3a2901840378c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAPI.ErrorView.configure(with: MarvelAPI.NetworkError) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Error/ErrorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "0AFBBFAA-91D1-4063-91CF-47F040C523B8 - 7b3a2901840378c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAPI.ErrorView.configure(with: MarvelAPI.NetworkError) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Error/ErrorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49A87676-646E-4F16-8C81-CF7C2FE5B52E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Network/NetworkRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "makeRequest(to:offset:limit:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "49A87676-646E-4F16-8C81-CF7C2FE5B52E - cc8accca0fc772f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "49A87676-646E-4F16-8C81-CF7C2FE5B52E - cbad555704ca66c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, MarvelAPI.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E14DD9D-8870-4722-9C33-6FBFBB883C5D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Network/NetworkRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "makeRequest(to:offset:limit:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2E14DD9D-8870-4722-9C33-6FBFBB883C5D - dead5058080edb6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "676">
+               </Location>
+               <Location
+                  uuid = "2E14DD9D-8870-4722-9C33-6FBFBB883C5D - dead5058080edb6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "816">
+               </Location>
+               <Location
+                  uuid = "2E14DD9D-8870-4722-9C33-6FBFBB883C5D - cc8accca0fc7722b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "2E14DD9D-8870-4722-9C33-6FBFBB883C5D - dead5058080edb6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "2E14DD9D-8870-4722-9C33-6FBFBB883C5D - cbad555704ca661b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, MarvelAPI.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "2E14DD9D-8870-4722-9C33-6FBFBB883C5D - 5c26f69e5ba67cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, MarvelAPI.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "640">
+               </Location>
+               <Location
+                  uuid = "2E14DD9D-8870-4722-9C33-6FBFBB883C5D - 5c26f69e5ba67cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, MarvelAPI.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "636">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95422835-6E1B-4631-88A7-A9762EF7330C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Network/NetworkRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "makeRequest(to:offset:limit:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "95422835-6E1B-4631-88A7-A9762EF7330C - dead5058080ede5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "2500">
+               </Location>
+               <Location
+                  uuid = "95422835-6E1B-4631-88A7-A9762EF7330C - dead5058080ede3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "2812">
+               </Location>
+               <Location
+                  uuid = "95422835-6E1B-4631-88A7-A9762EF7330C - 5c26f69e5ba629a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, MarvelAPI.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "2684">
+               </Location>
+               <Location
+                  uuid = "95422835-6E1B-4631-88A7-A9762EF7330C - 5c26f69e5ba629a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, MarvelAPI.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "2696">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "134A6A4A-AC17-488C-BD5C-0F455A4E0A23"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Network/NetworkRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "makeRequest(to:offset:limit:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "134A6A4A-AC17-488C-BD5C-0F455A4E0A23 - 3ebbf03129f41642"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "134A6A4A-AC17-488C-BD5C-0F455A4E0A23 - 3ebbf03129f41642"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "134A6A4A-AC17-488C-BD5C-0F455A4E0A23 - 6f5f5f0aaf2df5a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, MarvelAPI.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02D319BD-67CC-406C-A010-DDA9BE7641B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Network/NetworkRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "makeRequest(to:offset:limit:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "02D319BD-67CC-406C-A010-DDA9BE7641B7 - dead5058080ed9e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1760">
+               </Location>
+               <Location
+                  uuid = "02D319BD-67CC-406C-A010-DDA9BE7641B7 - dead5058080ed9e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1632">
+               </Location>
+               <Location
+                  uuid = "02D319BD-67CC-406C-A010-DDA9BE7641B7 - 5c26f69e5ba6540"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, MarvelAPI.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1592">
+               </Location>
+               <Location
+                  uuid = "02D319BD-67CC-406C-A010-DDA9BE7641B7 - 5c26f69e5ba6540"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, MarvelAPI.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1600">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8EF6225-0BAC-4D07-BA96-CE298A34CE03"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Network/NetworkRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "makeRequest(to:offset:limit:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A8EF6225-0BAC-4D07-BA96-CE298A34CE03 - dead5058080ed84d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "2692">
+               </Location>
+               <Location
+                  uuid = "A8EF6225-0BAC-4D07-BA96-CE298A34CE03 - dead5058080ed84d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "2564">
+               </Location>
+               <Location
+                  uuid = "A8EF6225-0BAC-4D07-BA96-CE298A34CE03 - 5c26f69e5ba64eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, MarvelAPI.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "2480">
+               </Location>
+               <Location
+                  uuid = "A8EF6225-0BAC-4D07-BA96-CE298A34CE03 - 5c26f69e5ba64eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, MarvelAPI.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "2492">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1BA89C7-6065-4DAC-9F29-E018261C48D4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Network/NetworkRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "makeRequest(to:offset:limit:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F1BA89C7-6065-4DAC-9F29-E018261C48D4 - dead5058080ed8a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "928">
+               </Location>
+               <Location
+                  uuid = "F1BA89C7-6065-4DAC-9F29-E018261C48D4 - dead5058080ed8a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "828">
+               </Location>
+               <Location
+                  uuid = "F1BA89C7-6065-4DAC-9F29-E018261C48D4 - 5c26f69e5ba640e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, MarvelAPI.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "804">
+               </Location>
+               <Location
+                  uuid = "F1BA89C7-6065-4DAC-9F29-E018261C48D4 - 5c26f69e5ba640e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelAPI.NetworkManager.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(to: Foundation.URL, offset: Swift.Int, limit: Swift.Int, completion: (Swift.Result&lt;&#x3c4;_0_0, MarvelAPI.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Network/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "768">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B105AB2F-B1F9-4E9B-B926-BB1868E4737C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Home/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "fetchCharactersIfNeeded(offset:query:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B105AB2F-B1F9-4E9B-B926-BB1868E4737C - dae46d9cd2a2eaa1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;MarvelAPI.MarvelCharacterResponse, Swift.Error&gt;) -&gt; () in MarvelAPI.HomeViewModel.fetchCharactersIfNeeded(offset: Swift.Int, query: Swift.String, completion: (Swift.Result&lt;Swift.Array&lt;MarvelAPI.HomeCellDTO&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Home/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "3816">
+               </Location>
+               <Location
+                  uuid = "B105AB2F-B1F9-4E9B-B926-BB1868E4737C - 5222889c8c080c01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;MarvelAPI.MarvelCharacterResponse, MarvelAPI.NetworkError&gt;) -&gt; () in MarvelAPI.HomeViewModel.fetchCharactersIfNeeded(offset: Swift.Int, query: Swift.String, completion: (Swift.Result&lt;Swift.Array&lt;MarvelAPI.HomeCellDTO&gt;, MarvelAPI.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorluni/Documents/repositorios_teste/MarvelAPI/MarvelAPI/Home/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "3752">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0ADD35B4-7B27-42C4-BF0A-C271BDCF329C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelAPI/Network/NetworkRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "makeRequest(to:offset:limit:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
